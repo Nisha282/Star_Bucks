@@ -142,8 +142,9 @@ const BannerComponent = () => {
                     {" "}
                     DOUBLE STARS
                   </p>
-                  <p classname="mt-2 text-white text-[#00000de]">
-                    Double Your Stars on first 3 order placed through the app. Order from the wide menu range and collect it from the barista.
+                  <p classname="mt-2  text-[#00000de] text-white">
+                    Double Your Stars on first 3 order placed through the app. 
+                    Order from the wide menu range and collect it from the barista.
                   </p>
                   <div className="mt-5 flex justify-between">
                     <div className="flex flex-col">

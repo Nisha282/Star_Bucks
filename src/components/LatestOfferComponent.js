@@ -9,7 +9,7 @@ const LatestOfferComponent = () => {
         </span>
       </div>
 
-      <div className="grid grid-cols-[2fr_2fr_2fr] gap-x-5">
+      <div className=" mt-5 lg:grid  lg:grid-cols-[2fr_2fr_2fr] lg:gap-x-5  flex flex-col justify-center">
         <div
           className="bg-white rounded-lg mt-5 cursor-pointer"
           style={{ boxShadow: "0px 5px 15px rgba(0,0,0,0.35)" }}
