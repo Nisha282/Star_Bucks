@@ -86,7 +86,7 @@ const HeaderComponent = () => {
                 <p>
                    
             <p className="mt-2 cursor-pointer">
-                <img src= "https://www.starbucks.in/assets/images/appstoreiOS.png" alt="android store"></img></p> 
+                <img src= "https://www.starbucks.in/assets/images/appstoreAndroid.png" alt="android store"></img></p> 
                 </p>
           </div>
           
