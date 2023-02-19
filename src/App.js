@@ -6,6 +6,7 @@ import RecommendsComponent from './components/RecommendsComponent';
 import BaristaRecommendsComponent from './components/BaristaRecommendsComponent';
 import BannerComponent from './components/BannerComponent';
 import LatestOfferComponent from './components/LatestOfferComponent';
+import HeaderComponent from './components/HeaderComponent';
 
 
 
@@ -20,6 +21,7 @@ function App() {
   <BaristaRecommendsComponent/>
   <BannerComponent/>
   <LatestOfferComponent/>
+  <HeaderComponent/>
   
   </>
   )

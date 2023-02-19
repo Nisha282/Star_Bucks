@@ -51,7 +51,7 @@ const BannerComponent = () => {
                     width={80}
                   ></img>
                 </div>
-                <div>
+                <div className="z-50">
                   <p className="text-[#00000de]">Introducing</p>
                   <p className="mt-2 font-semibold text-xl text-[#00000de]">
                     {" "}
@@ -95,14 +95,15 @@ const BannerComponent = () => {
                     width={80}
                   ></img>
                 </div>
-                <div>
+                <div className="z-50">
                   <p className="text-[#00000de] text-white">It's Time To</p>
                   <p className="mt-2 font-semibold text-xl text-[#00000de] text-white">
                     {" "}
                    Brighten Your Holidays!
                   </p>
                   <p classname="mt-2 text-[#00000de] text-white">
-                    {" "}Give in to the joy of indulgence. Experience the festive cheer with limited edition christmas frappuccions. 
+                    {" "}
+                    Give in to the joy of indulgence. Experience the festive cheer with limited edition christmas frappuccions. 
                   </p>
                   <div className="mt-5 flex justify-between">
                     <div className="flex flex-col">
@@ -136,7 +137,7 @@ const BannerComponent = () => {
                     width={80}
                   ></img>
                 </div>
-                <div>
+                <div className="z-50">
                   <p className="text-[#00000de] text-white">Special Offer</p>
                   <p className="mt-2 font-semibold text-xl text-[#00000de]  text-white">
                     {" "}
@@ -144,7 +145,7 @@ const BannerComponent = () => {
                   </p>
                   <p classname="mt-2  text-[#00000de] text-white">
                     Double Your Stars on first 3 order placed through the app. 
-                    Order from the wide menu range and collect it from the barista.
+                    cOrder from the wide menu range and collect it from the barista.
                   </p>
                   <div className="mt-5 flex justify-between">
                     <div className="flex flex-col">
@@ -178,7 +179,7 @@ const BannerComponent = () => {
                     width={80}
                   ></img>
                 </div>
-                <div>
+                <div className="z-50">
                   <p className="text-[#00000de]">Give Them A Piece Of Heart</p>
                   <p className="mt-2 font-semibold text-xl text-[#00000de]">
                     {" "}
