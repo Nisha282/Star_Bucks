@@ -95,7 +95,7 @@ const BannerComponent = () => {
                     width={80}
                   ></img>
                 </div>
-                <div className="z-50">
+                <div className="z-50 text-white">
                   <p className="text-[#00000de] text-white">It's Time To</p>
                   <p className="mt-2 font-semibold text-xl text-[#00000de] text-white">
                     {" "}
@@ -113,7 +113,7 @@ const BannerComponent = () => {
                       </span>
                     </div>
                     <div className="btn">
-                      <button className="bg-[#fff] text-[#00000de] w-52 rounded-full h-12 text-lg">
+                      <button className="bg-[#fff] text-[#00000de] w-52 rounded-full h-12 text-lg text-black">
                         Order Now
                       </button>
                     </div>
@@ -137,13 +137,13 @@ const BannerComponent = () => {
                     width={80}
                   ></img>
                 </div>
-                <div className="z-50">
+                <div className="z-50 text-white">
                   <p className="text-[#00000de] text-white">Special Offer</p>
                   <p className="mt-2 font-semibold text-xl text-[#00000de]  text-white">
                     {" "}
                     DOUBLE STARS
                   </p>
-                  <p classname="mt-2  text-[#00000de] text-white">
+                  <p classname="mt-2  text-[#00000de] "  >
                     Double Your Stars on first 3 order placed through the app. 
                     cOrder from the wide menu range and collect it from the barista.
                   </p>
@@ -155,7 +155,7 @@ const BannerComponent = () => {
                       </span>
                     </div>
                     <div className="btn">
-                      <button className="bg-[#fff] text-[#00000de] w-52 rounded-full h-12 text-lg">
+                      <button className="bg-[#fff] text-[#00000de] w-52 rounded-full h-12 text-lg text-black">
                         Order Now
                       </button>
                     </div>
